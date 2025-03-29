@@ -13,7 +13,8 @@
  •Controle de versões com `add`, `commit`, `push` e `pull`   
 
 ## 👨‍💻Tecnologia e ferramentas utilizadas?
- •GitHub  
+ •GitHub 
+ •Git
  •VS code
  
  <img src="https://github.com/user-attachments/assets/253c9801-f911-4d86-9987-cb54b860ccf8" width="100">
