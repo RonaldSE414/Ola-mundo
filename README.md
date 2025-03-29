@@ -5,7 +5,8 @@
  Aluno: Ronald Guimarães  
  Instagram: ronald.mgs  
  Contado:(86)98150-1549 
- 
+ ![image github](https://github.com/user-attachments/assets/253c9801-f911-4d86-9987-cb54b860ccf8)
+
  
  
  
