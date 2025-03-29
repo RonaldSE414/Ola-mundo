@@ -16,8 +16,7 @@
  •GitHub   
  •Git  
  •VS code  
- 
- <img src="https://github.com/user-attachments/assets/253c9801-f911-4d86-9987-cb54b860ccf8" width="100">
+  <img src="https://github.com/user-attachments/assets/253c9801-f911-4d86-9987-cb54b860ccf8" width="100">
   
  
 
