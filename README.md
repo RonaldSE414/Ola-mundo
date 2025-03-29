@@ -1,6 +1,6 @@
 # Olá, eu sou o Ronald Guimarães! 🤙
  Meu primeiro projeto com versionamento no git
- Feito em um curso de extensão na UNIFSA 🚀 
+ Feito em um curso de extensão na UNIFSA 🚀   
  Professor: Anderson Soares  
  Aluno: Ronald Guimarães  
  Instagram: ronald.mgs  
@@ -11,7 +11,9 @@
 ✅ Clonagem de repositórios (`git clone`)  
 ✅ Controle de versões com `add`, `commit`, `push` e `pull`   
 
-## 👨‍💻Tecnologia e ferramentas utilizadas?  
+## 👨‍💻Tecnologia e ferramentas utilizadas?
+GitHub  
+VS code
 
   
  
